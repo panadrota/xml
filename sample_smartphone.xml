@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2021-12-23 15:20">
+  <shop>
+    <name>StrategShop</name>
+    <company>ИП Щербак Александр Викторович</company>
+    <url>https://www.strategshop.ru</url>
+    <phone>8 499 110-42-48</phone>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Тестовая категория</category>
+    </categories>
+    <offers>
+      <offer id="smartphone17" available="true">
+        <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
+        <price>10000</price>
+        <vat>VAT_0</vat>
+        <shipmentPeriod>5</shipmentPeriod>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://www.strategshop.ru/media/011/268/11268851.jpg</picture>
+        <pickup>true</pickup>
+        <name>Nestle Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
+        <vendor>Nestle</vendor>
+        <outlets>
+          <outlet id="1" instock="100"/>
+        </outlets>
+      </offer>
+       <offer id="smartphone18" available="true">
+        <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
+        <price>10000</price>
+        <vat>VAT_0</vat>
+        <shipmentPeriod>5</shipmentPeriod>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://www.strategshop.ru/media/011/268/11268851.jpg</picture>
+        <pickup>true</pickup>
+        <name>Nestle Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
+        <vendor>Nestle</vendor>
+        <outlets>
+          <outlet id="1" instock="100"/>
+        </outlets>
+      </offer>
+       <offer id="smartphone18" available="true" group_id="57056255">
+        <url>https://www.strategshop.ru/catalog/detskaya-pizhama-pokemon-charmander/p57056255/m23380514/?utm_source=market.yandex.ru&amp;utm_campaign=m23380514</url>
+        <price>1190</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10973</categoryId>
+        <picture>https://www.strategshop.ru/media/015/879/15879686.jpg</picture>
+        <pickup>true</pickup>
+        <name>Детская пижама кигуруми Покемон Чармандер 400 г (размер кигуруми: 135 см)</name>
+        <description>Удобный и мягкий костюм выполнен из прекрасного материала велсофт (так называемого пушистого флиса) и безусловно понравится любому ребёнку. РазмерРост10596-105 см115106-115 см125116-125 см135126-135 см145136-145 см</description>
+        <sales_notes>возможна оплата наличными</sales_notes>
+        <barcode>000001176</barcode>
+        <param name="Размер кигуруми" unit="INT">135 см</param>
+        <weight>0.4</weight>
+        <outlets>
+          <outlet id="1" instock="500"/>
+        </outlets>
+        <priceZones>
+            <priceZone id="1" price= "20000"/>
+        </priceZones>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
